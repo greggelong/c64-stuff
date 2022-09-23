@@ -13,3 +13,7 @@ https://github.com/greggelong/wolfram-CA-c64
 javaScript sprite editor
 
 https://greggelong.github.io/p5-sketches-from-web-editor/c64-sprite-editor/
+
+from c64 user guide on spites
+
+https://www.commodore.ca/manuals/c64_users_guide/c64-users_guide-06-sprite_graphics.pdf
